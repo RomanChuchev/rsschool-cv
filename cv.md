@@ -1,11 +1,11 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> Hello Everyone!
+# Roman Chuchev
 
-## :man_technologist: My name is Roman. I am a beginner Frontend Developer
+## 👨‍💻 Frontend Developer
 
-_I like the front-end - it's a creative process without limits that combines design and application development. I study front-end development and do my best to gain new knowledge and competencies. I really like what I do, because it's so fun and interesting!_
+_I like the frontend — it's a creative process without limits, where your salary level depends on your competencies. I really like what I do and every day I try to gain new knowledge and competencies. Programming is very fun and interesting!_
 
 _Completed courses: ["Junior JavaScript developer"](https://skillbox.ru/course/javascript/) by Skillbox and ["React + Redux - Professional Development"](https://www.udemy.com/course/pro-react-redux/) by Udemy. I practice programming every day, write pet-projects in my portfolio and study courses on algorithms and frameworks (React)._
-_I believe that soon I will find an internship or my first job in the frontend, where I will get a lot of experience, practical skills and find cool friends._
+_I want to work in a team of professionals and participate in the development of interesting projects. I know how to properly organize my working time, prioritize tasks and find a solution for them as soon as possible._
 
 ---
 
